@@ -1,0 +1,1 @@
+.\mongosh.exe "mongodb+srv://cluster0.yhqmf.mongodb.net/myFirstDatabase" --username owner -p Space*117
